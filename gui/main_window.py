@@ -61,7 +61,7 @@ class MainWindow(QMainWindow):
 
         sb_layout.addStretch()
 
-        footer_lbl = QLabel("100% Local & Offline")
+        footer_lbl = QLabel("100% Local & Offline\nAuthorized Use Only")
         footer_lbl.setStyleSheet("font-size: 11px; color: #64748b;")
         sb_layout.addWidget(footer_lbl)
 

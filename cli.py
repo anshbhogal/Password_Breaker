@@ -6,10 +6,14 @@ import itertools
 from core.recovery_engine import RecoveryEngine
 
 def print_banner():
-    print("=" * 60)
+    print("=" * 65)
     print("   LOCAL DOCUMENT PASSWORD RECOVERY SYSTEM v1.0")
     print("   Secure, Local & High-Performance Password Recovery")
-    print("=" * 60)
+    print("=" * 65)
+    print("   LEGAL DISCLAIMER: For authorized recovery & testing only.")
+    print("   Unauthorized use on unapproved files is strictly illegal.")
+    print("   The software author assumes zero liability for misuse.")
+    print("=" * 65)
 
 def cmd_analyze(args, engine: RecoveryEngine):
     file_path = args.file

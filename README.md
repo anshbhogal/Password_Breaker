@@ -92,6 +92,15 @@ python -m pytest -v
 
 ---
 
+## Legal & Ethical Disclaimer
+
+This software is designed exclusively for genuine, authorized document recovery and security testing. You are strictly required to use this software ONLY on files and systems you legally own or have explicit written authorization from the owner to audit.
+
+- **No Illegal Use**: Any unauthorized attempt to breach passwords or access files without consent is illegal and strictly prohibited.
+- **Zero Author Liability**: The copyright owner, authors, and contributors assume **no liability** and shall not be held responsible for any misuse, unauthorized access, data loss, or illegal activities conducted with this software.
+
+---
+
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details.
+Proprietary License - See [LICENSE](LICENSE) for details. Modification, derivation, and redistribution are strictly prohibited without express written permission.
